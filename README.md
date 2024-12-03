@@ -2,10 +2,10 @@
 
 ## Data Diri
 
-Nama        : Delfan Zuffar Rajjaz Nuziar
-NIM         : 235150707111010
-Prodi       : Teknologi Informasi (TI)
-Mata Kuliah : Algoritma Struktur Data (D)
+* Nama        : Delfan Zuffar Rajjaz Nuziar
+* NIM         : 235150707111010
+* Prodi       : Teknologi Informasi (TI)
+* Mata Kuliah : Algoritma Struktur Data (D)
 
 
 ## Deskripsi Aplikasi
@@ -31,6 +31,8 @@ Aplikasi ini memiliki fitur-fitur sebagai berikut:
 
 
 
-
 ## Screenshot Program 
 
+* Menu Utama
+
+  ![Menu Utama](Screenshoot/Screenshot%202024-12-03%20125223.png "Menu Utama")
