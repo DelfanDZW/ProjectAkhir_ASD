@@ -33,6 +33,26 @@ Aplikasi ini memiliki fitur-fitur sebagai berikut:
 
 ## Screenshot Program 
 
-* Menu Utama
+* Menu Utama dan melihat data mahasiswa
 
-  ![Menu Utama](Screenshoot/Screenshot%202024-12-03%20125223.png "Menu Utama")
+  ![Menu Utama](Screenshoot/Screenshot%202024-12-03%20131825.png "menu")
+
+* Menambahkan data mahasiswa baru
+
+  ![Menambah data baru](Screenshoot/Screenshot%202024-12-03%20132024.png "data baru")
+
+* Menu dengan data mahasiswa baru
+
+  ![Menu dengan data baru](Screenshoot/Screenshot%202024-12-03%20132301.png "data baru")
+
+* Menu Sortir (Urutkan)
+
+  ![Menu sortir](Screenshoot/Screenshot%202024-12-03%20132411.png "menu sortir")
+
+* Menu Setelah memilih metode sortir (Memilih atribut untuk di sortir) 
+
+  ![Menu sortir atribut](Screenshoot/Screenshot%202024-12-03%20132617.png "menu sortir")
+
+* Menu Utama setelah melakukan sorting menggunakan atribut yang dipilih (Disini saya memilih Bubble sort dan atribut nama)
+
+  ![Menu utama sortir atribut](Screenshoot/Screenshot%202024-12-03%20132849.png "menu sortir")
