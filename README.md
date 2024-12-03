@@ -26,7 +26,8 @@ Aplikasi ini memiliki fitur-fitur sebagai berikut:
 1. Jalankan program
 2. Keluar data mahasiswa yang sudah ada
 3. Menambahkan data mahasiswa baru
-4. Mensortir data mahasiswa melalui
+4. Memilih sortir dan atribut untuk mensortir data mahasiswa melalui
+5. Memilih data mahasiswa dan kemudian menekan hapus untuk mengahapus
 
 
 
@@ -56,3 +57,7 @@ Aplikasi ini memiliki fitur-fitur sebagai berikut:
 * Menu Utama setelah melakukan sorting menggunakan atribut yang dipilih (Disini saya memilih Bubble sort dan atribut nama)
 
   ![Menu utama sortir atribut](Screenshoot/Screenshot%202024-12-03%20132849.png "menu sortir")
+
+* Untuk menghapus maka memilih dahulu mahasiswa yang ingin di hapus dan kemudian tekan tombol hapus
+
+  ![sortir Hapus](Screenshoot/Screenshot%202024-12-03%20140946.png "Hapus")
